@@ -8,8 +8,8 @@
  * 0.25 kg  black malt
  * 0.4 kg   cane sugar
  * 24 g     Magnum (15%)
+ * 23 g     Northern Brewer (8.5%)
  * 10 g     Perle (10%)
- * 23 g     Northern Brewer ()
  * 18 g     Wyeast #1450
  * 20 l     Water for Mashing
  * 9 l      Water for Sparging
