@@ -4,8 +4,8 @@
  * 4 kg     Pale Ale Malt
  * 0.5 kg   CaraHell
  * 0.5 kg   oats
- * 0.4 kg   Chocolate Malt
- * 0.1 kg   black malt
+ * 0.5 kg   Chocolate Malt
+ * 0.25 kg  black malt
  * 0.4 kg   cane sugar
  * 24 g     Magnum (15%)
  * 10 g     Perle (10%)
@@ -28,6 +28,7 @@
 
 Cook for 80 minutes.
 
+Add cane sugar right away.
 Add Magnum 5 minutes after 5 minutes after cooking started.
 Add Northern Brewer 10 minutes before cooking ends.
 Add Perle 5 minutes before cooking ends.
