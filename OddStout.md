@@ -37,7 +37,9 @@ Add Perle 5 minutes before cooking ends.
 
 Should take 4-5 days for the first stage.
 
-TODO: Add second stage info.
+After first stage, add 4 g sugar per liter for the next fermenting stage. Fill into sterilized bottles or keg and allow for the same time and temperature as in the first stage.
+
+After fermentation is complete, store in a chilled environment for at least 5 weeks.
 
 
  
