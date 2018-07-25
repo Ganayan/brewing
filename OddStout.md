@@ -29,7 +29,7 @@
 Cook for 80 minutes.
 
 Add cane sugar right away.
-Add Magnum 5 minutes after 5 minutes after cooking started.
+Add Magnum 5 minutes 5 minutes after cooking started.
 Add Northern Brewer 10 minutes before cooking ends.
 Add Perle 5 minutes before cooking ends.
 
